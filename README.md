@@ -1,3 +1,2 @@
 # hello-world
-My trial repository
-ooga chaka
+I have no idea what I'm doing.
